@@ -1,2 +1,3 @@
-# oca-java
-Exercises for OCA preparation
+# oca
+
+Code snippets to prepare the OCA Certification Exam. 
