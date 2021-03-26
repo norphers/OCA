@@ -9,7 +9,7 @@ public class Swan extends Bird
 		Bird swan = new Bird(); 
 		//Estás instanciando un nuevo objeto Bird con
 		//referencia 'swan'.  
-		swan.fly(); //DOES NOT COMPILE
+//		swan.fly(); //DOES NOT COMPILE
 		//no compila porquè el objecto Bird  al cual estás
 		//haciendo referencia pertenece a otro package.
 		//swan.fly() no hereda de Bird y no puede usar sus
